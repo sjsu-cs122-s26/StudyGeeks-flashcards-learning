@@ -1,4 +1,4 @@
-# Flashcard_group6
+# StudyGeeks
 FlashCard Application Study Tool
 
 TeamName: StudyGeeks
